@@ -28,10 +28,14 @@ I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently stu
      
 
 - Skills: <Any Other Skills or Tools You Want to Highlight>
+    *  Create Front-end web pages
+    *  Create Back-End web pages 
+    *  Database creation management with SQL
+    *  
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/jhonatanyugsan/) profile
 - Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
