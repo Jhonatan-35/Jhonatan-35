@@ -1,17 +1,25 @@
 # Jhonatan Yugsan #
 Hello, GitHub! 👋
 
-I'm Jhonatan Yugsan , a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently studying software development in others tools interest such as Development Web and  computer development  Web Front-end and Back-end >Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I am currently taking the final courses in software development and learning software testing to improve the efficiency and functionality of each web application and everything that makes up the software's operation.
+- Among my main goals is to successfully complete and graduate with a bachelor's degree in web development. Other important goals include the following:
+    * Working at the biggest company like Google
+    * create my own application of tools that everyone in the world uses
+    * Create my own chain is an online digital company where everyone can create their own projects and learn through online competitions about programming and web software development.
+  
+- Ask me about essential topics and everything related to software, the technology advancements that currently make it up, with references to web development, new functionalities and tests that must be applied to new projects, and with technological advancements such as artificial intelligence and everything that makes up the world of software.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
+- Proficient in: <List of Programming Languages or Technologie>
+     * Javascrpt
+     * C+ C-sharp
+     * Python
+
 - Skills: <Any Other Skills or Tools You Want to Highlight>
 
 ## Let's Connect!
