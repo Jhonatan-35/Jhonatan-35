@@ -1,7 +1,7 @@
 # Jhonatan Yugsan #
 Hello, GitHub! 👋
 
-I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently studying software development in others tools interest such as Development Web and  computer development  Web Front-end and Back-end >Welcome to my GitHub profile!
+I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently studying software development in others tools interest such as Development Web and  computer development  Web Front-end and Back-end Welcome to my GitHub profile!
 
 ## About Me
 
